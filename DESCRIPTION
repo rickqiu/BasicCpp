@@ -1,0 +1,15 @@
+Package: BasicCpp
+Type: Package
+Title: Illustrate C++ Code
+Version: 0.1.0
+Author: Rick Qiu
+Maintainer: Rick Qiu <rick.qiu@mydomain.com>
+Description: Some sample C++ code with R code
+License: BSD_3_clause + file LICENSE
+Encoding: UTF-8
+LazyData: true
+ByteCompile: TRUE
+Imports: 
+    Rcpp (>= 0.11.2)
+LinkingTo: Rcpp
+RoxygenNote: 6.0.1
