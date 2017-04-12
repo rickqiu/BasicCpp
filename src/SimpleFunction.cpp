@@ -7,6 +7,7 @@ using namespace Rcpp;
 //' @details Sums of a vector
 //' @author Rick Qiu
 //' @export fastSum3
+//' @import Rcpp
 //' @aliases fastSum3
 //' @param x Numeric Vector
 //' @return a double number

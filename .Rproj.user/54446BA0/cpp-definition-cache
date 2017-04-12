@@ -5,13 +5,13 @@
                 "column" : 8,
                 "file" : "C:/Users/rqui/Documents/Consulting/BasicCpp/src/SimpleFunction.cpp",
                 "kind" : 6,
-                "line" : 18,
+                "line" : 19,
                 "name" : "fastSum3(NumericVector)",
                 "parent_name" : "",
                 "usr" : "c:@F@fastSum3#$@N@Rcpp@C@Vector>#VI14#@N@Rcpp@CT>1#T@PreserveStorage#"
             }
         ],
         "file" : "C:/Users/rqui/Documents/Consulting/BasicCpp/src/SimpleFunction.cpp",
-        "file_last_write" : 1491957281
+        "file_last_write" : 1492035354
     }
 ]

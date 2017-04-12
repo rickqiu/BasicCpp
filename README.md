@@ -14,5 +14,5 @@ This is a R package project. It illustrates some samples for C++ code with R cod
 8) Add a SimpleFunction.cpp file
 9) Write a function and export and document it
 10) Update DESCRIPTION by adding "Imports" and "LinkingTo"
-11) Run document() and update the generated NAMESPACE with import(Rcpp)
+11) Run document()
 12) Build & Reload the project

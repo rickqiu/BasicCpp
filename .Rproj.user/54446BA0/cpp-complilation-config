@@ -9,7 +9,7 @@
         "-DNDEBUG",
         "-Id:/Compiler/gcc-4.9.3/local330/include"
     ],
-    "hash" : "1491956401",
+    "hash" : "1491958848",
     "is_cpp" : true,
     "pch" : "Rcpp"
 }
