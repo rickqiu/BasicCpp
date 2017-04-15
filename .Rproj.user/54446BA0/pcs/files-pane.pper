@@ -1,6 +1,10 @@
 {
-    "path" : "~/Consulting/BasicCpp/src",
+    "path" : "~/Consulting/BasicCpp",
     "sortOrder" : [
+        {
+            "ascending" : false,
+            "columnIndex" : 3
+        },
         {
             "ascending" : true,
             "columnIndex" : 2
