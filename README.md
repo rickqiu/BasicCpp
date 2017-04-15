@@ -12,7 +12,7 @@ This is a R package project. It illustrates some samples for C++ code with R cod
 5) Load devtools library and document()
 6) Build & Reload the project
 
-#  Create a cpp and add a function
+#  Create a cpp file and add a function
 7) Create a new folder "src"
 8) Add a SimpleFunction.cpp file
 9) Write a function and export and document it
