@@ -12,5 +12,4 @@ addBase <- function (x, y)
 {
     x + y
 }
-
 # To use roxygen2, need to require(devtools)
