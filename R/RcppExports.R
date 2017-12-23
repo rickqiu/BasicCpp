@@ -16,6 +16,6 @@
 NULL
 
 fastSum3 <- function(x) {
-    .Call('BasicCpp_fastSum3', PACKAGE = 'BasicCpp', x)
+    .Call('_BasicCpp_fastSum3', PACKAGE = 'BasicCpp', x)
 }
 
